@@ -1,5 +1,12 @@
-
 # complete-mern-project
+
+
+<img width="954" alt="Screenshot 2024-01-08 093457" src="https://github.com/Akash02032002/FoodFoodi-client/assets/84145371/9d8bab89-b6bf-4a75-8cf7-0a78cfa3d695">
+
+
+
+<img width="950" alt="Screenshot 2024-01-08 095034" src="https://github.com/Akash02032002/FoodFoodi-client/assets/84145371/ea22450d-9152-4d43-93cf-3ddae8ae87c5">
+
 
 
 ## Table of Contents
