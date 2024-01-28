@@ -43,7 +43,12 @@ const Navbar = () => {
           Home
         </a>
       </li>
-      <li tabIndex={0}>
+      <li>
+        <a href="/menu" className={`text-${isDarkMode ? 'dark' : ''}`}>
+          Menu
+        </a>
+      </li>
+      {/* <li tabIndex={0}>
         <details>
           <summary className={`text-${isDarkMode ? 'dark' : ''}`}>Menu</summary>
           <ul className={`p-2 ${isDarkMode ? 'dark' : ''}`}>
@@ -60,7 +65,7 @@ const Navbar = () => {
             </li>
           </ul>
         </details>
-      </li>
+      </li> */}
       <li tabIndex={0}>
         <details>
           <summary className={`text-${isDarkMode ? 'dark' : ''}`}>Services</summary>
